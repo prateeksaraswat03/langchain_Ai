@@ -1,0 +1,10 @@
+Rag/loader/story.txt
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+venv/
+__pycache__/
+*.pyc
